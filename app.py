@@ -1,5 +1,5 @@
 
-import datetime as dt
+import datetime as dt 
 import pandas as pd
 import numpy as np
 
@@ -22,12 +22,10 @@ session = Session(engine)
 Base = automap_base() 
 
 
-app = flask(__name__)
+app = flask(__name__) 
 
 @app.route('/')
 def welcome():
-    return(
-        def welcome():
     return(
     '''
     Welcome to the Climate Analysis API!
@@ -37,6 +35,7 @@ def welcome():
     /api/v1.0/tobs
     /api/v1.0/temp/start/end
     ''') 
+    
         
         
 @app.route("/api/v1.0/precipitation")
