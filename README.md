@@ -4,9 +4,9 @@
 The purpose of the analysis was to analyze weather data for the city of Oahu. The analysis targeted the months of June and December in effort to determine if a surf and ice cream shop business is sustainable year-round in this location.
 
 ## Results
-Key differences between weather in June and December:
-    - Average temperatures in June were higher than average temperatures in December
-    - Minimum temperature recorded in December was 8 degrees lower than the lowest temperature recorded in June.
+Key differences between weather in June and December:<br>
+    - Average temperatures in June were higher than average temperatures in December<br>
+    - Minimum temperature recorded in December was 8 degrees lower than the lowest temperature recorded in June<br>
     - Total number of observations recorded in June were higher than that of December
 
 ## Summary
