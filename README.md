@@ -9,9 +9,11 @@ Key differences between weather in June and December:<br>
     - Minimum temperature recorded in December was 8 degrees lower than the lowest temperature recorded in June<br>
     - Total number of observations recorded in June were higher than that of December
     
-June Temperature statistics: https://github.com/ChrisBarton107/surfs_up/blob/main/Resources/June_temps.png
+**June Temperature statistics**<br> 
+<img src= "https://github.com/ChrisBarton107/surfs_up/blob/main/Resources/June_temps.png" height="700" width="600"><br>
 
-December Temperature statistics: https://github.com/ChrisBarton107/surfs_up/blob/main/Resources/December_temps.png
+**December Temperature statistics**<br> 
+<img src= "https://github.com/ChrisBarton107/surfs_up/blob/main/Resources/December_temps.png" height="700" width="500"><br>
 
 ## Summary
 The analysis found that temperature in Oahu was relatively similar during the months of June and December. Average temperatures in June and December were approximately 75 and 71 degrees respectively. The only significant difference was found when finding minimum temperatures, with temperatures coming in at 64 degrees in June and 56 degrees in December. If additional weather data is desired, queries such as the following can supplement the current analysis:
